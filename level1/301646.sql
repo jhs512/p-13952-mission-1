@@ -1,0 +1,4 @@
+SELECT COUNT(*) AS COUNT
+FROM ECOLI_DATA
+WHERE (ID & 2) = 0
+  AND ((ID & 1) = 1 OR (ID & 4) = 4)
