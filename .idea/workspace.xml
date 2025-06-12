@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29629be5-1192-4e27-a69d-d2e57174c04a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/level1/131114.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/131528.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/131535.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/131697.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/132201.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/132203.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/133024.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/59037.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/59039.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/59403.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/59404.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level1/59407.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749716191031</updated>
-      <workItem from="1749716193642" duration="5409000" />
+      <workItem from="1749716193642" duration="7007000" />
     </task>
     <servers />
   </component>
