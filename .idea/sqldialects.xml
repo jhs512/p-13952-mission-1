@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/level1/131112.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/131535.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/132201.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/132203.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/133024.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/144853.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/151136.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/276013.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/293258.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/298517.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/301646.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/59034.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/59035.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/59036.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/59037.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/59403.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/59404.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/level1/59405.sql" dialect="GenericSQL" />
+  </component>
+</project>
