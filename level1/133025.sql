@@ -1,0 +1,2 @@
+-- 코드를 입력하세요
+SELECT DISTINCT i.FLAVOR FROM ICECREAM_INFO i inner join FIRST_HALF f on f.FLAVOR = i.FLAVOR where TOTAL_ORDER > 3000 and INGREDIENT_TYPE = 'fruit_based';
